@@ -1,0 +1,28 @@
+{
+    "status":"0",
+    "msg":"",
+    "result":[
+        {
+            "event_time":"2018-10-08",
+            "event_text":"lalalalalala",
+            "custid":"测试数据1"
+        },
+        {
+            "event_time":"2018-10-09",
+            "event_text":"lalalalalala",
+            "custid":"测试数据2"
+        },
+        {
+            "event_time":"2018-10-10",
+            "event_text":"lalalalalala",
+            "custid":"测试数据3"
+        },{   
+            "cutname":"張三",
+            "custid":"999",
+            "netasset":"34566",
+            "fee_rate":"9999",
+            "mktval":"0909",
+            "opendate":"90"
+        }
+    ]
+}
